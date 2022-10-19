@@ -1,1 +1,1 @@
-another assignment
+variables in c
