@@ -2,8 +2,7 @@
 
 int main(void)
 {
-string str = "Holberton\n";
-int i = 0;
+string str = "_putchar\n";
 _putchar(str);
 return (0);
 }
