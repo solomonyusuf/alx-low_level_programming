@@ -1,9 +1,5 @@
-#include "holberton.h"
-/**
- * main - Entry point
- * Description: prints 'Holberton \n'
- * Return: Always 0 (success)
- */
+#include "main.h"
+
 int main(void)
 {
 string str = "Holberton\n";
