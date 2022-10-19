@@ -2,7 +2,7 @@
 
 int main(void)
 {
-string str = "_putchar\n";
-_putchar(str);
+char e[] = "_putchar\n";
+ printf(e);
 return (0);
 }
